@@ -1,2 +1,1 @@
-
-Access the Website here : https://graphalgorithmsvisualizer10101.netlify.app/
+Interactive Graph Algorithm Visualizer built with ReactJS. Visualize popular algorithms like DFS, BFS, and Dijkstra on a customizable grid with features like node editing, weighted paths, obstacles, and real-time animations.
